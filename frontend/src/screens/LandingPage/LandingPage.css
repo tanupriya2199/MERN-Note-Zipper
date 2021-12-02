@@ -1,0 +1,31 @@
+.main{
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-image: url('../../assets/images/background1.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.intro-text{
+width: 100%;
+text-align: center;
+}
+
+.title{
+    font-size: 4rem;
+}
+
+.subtitle{
+    font-size: 2rem;
+    padding-top: 10px;
+}
+
+.button-container{
+    justify-content: space-evenly;
+}
+
+.landing-button{
+    width: 10rem;
+    height: 3rem;
+}
